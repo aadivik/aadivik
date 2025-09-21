@@ -84,7 +84,7 @@
   <strong>Databases:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45px" alt="Prisma"/>
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="45px" alt="Supabase"/>
+  
 </p>
 
 <p align="center">
