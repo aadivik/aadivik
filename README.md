@@ -7,7 +7,7 @@
   <!-- Left column: Tech Stack -->
   <div style="flex: 1; min-width: 300px;">
     <p align="center">
-      [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,django,fastapi,flask,react,nextjs,tailwind,git,github,opencv,mysql,supabase,linux,gcp,notion,pytorch,tensorflow,huggingface&perline=7)](https://skillicons.dev)
+      <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,django,fastapi,flask,react,nextjs,tailwind,git,github,opencv,mysql,supabase,linux,gcp,notion,pytorch,tensorflow,huggingface&perline=7" alt="My Skills"/>
     </p>
   </div>
 
@@ -26,7 +26,8 @@
 - 🚀 Experienced in **LLM Apps (LangChain, Vertex AI, Gemini API)** and **Web Apps (Django + React/Next.js)**  
 - 📚 Published **IEEE/ArXiv research papers** in AI, CV, NLP, and Healthcare ML  
 - 📫 Reach me at: **aadivikram892@gmail.com**  
-- 🌐 [Portfolio/Resume](https://drive.google.com/file/d/1rVENT8BlHUzyYL6IzM2-iCNuxmwjRpc-/view?usp=sharing)
+- 🌐 [Portfolio/Resume]([https://drive.google.com/file/d/1rVENT8BlHUzyYL6IzM2-iCNuxmwjRpc-/view?usp=sharing](https://drive.google.com/file/d/1eRROUeCpOeeSj8DPGKm7gAnRVlnHC31R/view?usp=sharing))
+
 
 
 ---
