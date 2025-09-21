@@ -3,12 +3,10 @@
 
 <table align="center">
   <tr>
-    <!-- Left column: Tech stack -->
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,django,fastapi,flask,react,nextjs,tailwind,git,github,opencv,mysql,supabase,linux,gcp,notion,pytorch,tensorflow,huggingface&perline=7" alt="My Skills"/>
     </td>
 
-    <!-- Right column: Developer GIF -->
     <td align="center" valign="top">
       <img src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330"/>
     </td>
@@ -24,9 +22,6 @@
 - 📚 Published **IEEE/ArXiv research papers** in AI, CV, NLP, and Healthcare ML  
 - 📫 Reach me at: **aadivikram892@gmail.com**  
 - 🌐 [Portfolio/Resume]([https://drive.google.com/file/d/1rVENT8BlHUzyYL6IzM2-iCNuxmwjRpc-/view?usp=sharing](https://drive.google.com/file/d/1eRROUeCpOeeSj8DPGKm7gAnRVlnHC31R/view?usp=sharing))
-
-
-
 
 ---
 
