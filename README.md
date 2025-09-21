@@ -2,10 +2,10 @@
 <h3 align="center">💻 Software Engineer | AI/ML Researcher | Full-Stack Developer</h3>
 
 <div align="center">
-  [![Portfolio](https://img.shields.io/badge/%20Portfolio-20B2AA?style=for-the-badge&logo=bilibili&logoColor=white)](https://bhanmrinal-github-io.vercel.app/) 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinal-bhan/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanmrinal@gmail.com) 
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrinalbhan/)
+  [![Portfolio](https://img.shields.io/badge/%20Portfolio-20B2AA?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.linkedin.com/in/aadivikram368/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadivikram368/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadivikram892@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/aadivikram368/)
 </div>
 
 <!-- Left logo -->
