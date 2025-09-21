@@ -55,11 +55,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadivik&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadivik&layout=compact&theme=radical" width="47%" />
+  <img src="https://raw.githubusercontent.com/aadivik/aadivik/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
