@@ -27,7 +27,7 @@
 - 🚀 Experienced in **LLM Apps (LangChain, Vertex AI, Gemini API)** and **Web Apps (Django + React/Next.js)**  
 - 📚 Published **IEEE/ArXiv research papers** in AI, CV, NLP, and Healthcare ML  
 - 📫 Reach me at: **aadivikram892@gmail.com**  
-- 🌐 [Portfolio/Resume](https://drive.google.com/file/d/1eRROUeCpOeeSj8DPGKm7gAnRVlnHC31R/view?usp=sharing)
+- 🌐 [Resume](https://drive.google.com/file/d/1eRROUeCpOeeSj8DPGKm7gAnRVlnHC31R/view?usp=sharing)
 
 
 
