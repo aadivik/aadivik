@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aadi Krishna Vikram</h1>
 <h3 align="center">💻 Software Engineer | AI/ML Researcher | Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330" />
-</p>
+<div style="display: flex; align-items: flex-start;">
+
+  <!-- Left column: Tech stack -->
+  <div style="flex: 1;">
+    <p align="center">
+      [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,django,fastapi,flask,react,nextjs,tailwind,git,github,opencv,mysql,supabase,linux,gcp,notion,pytorch,tensorflow,huggingface&perline=7)](https://skillicons.dev)
+    </p>
+  </div>
+
+  <!-- Right column: Developer GIF -->
+  <div style="flex: 1;">
+    <img src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330" />
+  </div>
+
+</div>
 
 ---
 
