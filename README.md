@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Engineer | AI/ML Researcher | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Pythonic+Developer+%7C+Django+%7C+REST+APIs;React+%7C+Next.js+%7C+Full+Stack+Engineering;LangChain+%7C+LLMs+%7C+AI+Applications;Cloud+%7C+GCP+%7C+Docker+%7C+DevOps;Always+Learning+%7C+Always+Building+🚀" alt="Typing SVG" />
+  <img src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330" />
 </p>
 
 ---
@@ -13,7 +13,8 @@
 - 🚀 Experienced in **LLM Apps (LangChain, Vertex AI, Gemini API)** and **Web Apps (Django + React/Next.js)**  
 - 📚 Published **IEEE/ArXiv research papers** in AI, CV, NLP, and Healthcare ML  
 - 📫 Reach me at: **aadivikram892@gmail.com**  
-- 🌐 [Portfolio/Resume](https://drive.google.com/file/d/1rVENT8BlHUzyYL6IzM2-iCNuxmwjRpc-/view?usp=sharing)  
+- 🌐 [Portfolio/Resume](https://drive.google.com/file/d/1rVENT8BlHUzyYL6IzM2-iCNuxmwjRpc-/view?usp=sharing)
+
 
 ---
 
