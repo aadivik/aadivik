@@ -1,3 +1,6 @@
+<!--horizontal divider(gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi 👋, I'm Aadi Krishna Vikram</h1>
 <h3 align="center">💻 Software Engineer | AI/ML Researcher | Full-Stack Developer</h3>
 
@@ -114,13 +117,11 @@
 ---
 
 ### 🐍 GitHub Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadivik/aadivik/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadivik/aadivik/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aadivik/aadivik/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saatvik333/saatvik333/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saatvik333/saatvik333/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 
