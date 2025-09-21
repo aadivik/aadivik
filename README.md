@@ -109,10 +109,10 @@
 - [🚗 **Car Marketplace AI**](https://github.com/aadivik/CAR_MARKETPLACE-AI)  
   *Next.js + Supabase + Prisma + Gemini API for conversational search and car recommendations.*  
 
-- [🌾 **WheatSight**](https://github.com/aadivik/wheatsight)  
+- [🌾 **WheatSight**](https://ieeexplore.ieee.org/abstract/document/10989539)  
   *YOLOv8 pipeline for wheat ear detection, integrated via Flask/FastAPI.*  
 
-- [🫁 **TriSpectraLSTM**](https://github.com/aadivik/copd-detection)  
+- [🫁 **TriSpectraLSTM**](https://ieeexplore.ieee.org/abstract/document/10902953)  
   *LSTM model for COPD detection from lung sounds.*  
 
 ---
