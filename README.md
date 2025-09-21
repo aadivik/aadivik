@@ -1,22 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aadi Krishna Vikram</h1>
 <h3 align="center">💻 Software Engineer | AI/ML Researcher | Full-Stack Developer</h3>
 
-<!-- Two-column layout: Tech Stack on left, GIF on right -->
-<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-
-  <!-- Left column: Tech Stack -->
-  <div style="flex: 1; min-width: 300px;">
-    <p align="center">
+<table align="center">
+  <tr>
+    <!-- Left column: Tech stack -->
+    <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,django,fastapi,flask,react,nextjs,tailwind,git,github,opencv,mysql,supabase,linux,gcp,notion,pytorch,tensorflow,huggingface&perline=7" alt="My Skills"/>
-    </p>
-  </div>
+    </td>
 
-  <!-- Right column: Developer GIF -->
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330" />
-  </div>
-
-</div>
+    <!-- Right column: Developer GIF -->
+    <td align="center" valign="top">
+      <img src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -27,6 +24,7 @@
 - 📚 Published **IEEE/ArXiv research papers** in AI, CV, NLP, and Healthcare ML  
 - 📫 Reach me at: **aadivikram892@gmail.com**  
 - 🌐 [Portfolio/Resume]([https://drive.google.com/file/d/1rVENT8BlHUzyYL6IzM2-iCNuxmwjRpc-/view?usp=sharing](https://drive.google.com/file/d/1eRROUeCpOeeSj8DPGKm7gAnRVlnHC31R/view?usp=sharing))
+
 
 
 
