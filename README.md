@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Aadi Krishna Vikram</h1>
-<h3 align="center">💻 Software Engineer | Python | Django | REST APIs | React | AI/ML</h3>
+<h3 align="center">💻 Software Engineer | AI/ML Researcher | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4DB6AC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%7C+Django+%7C+REST+API;React+%7C+Next.js+%7C+JavaScript;LangChain+%7C+LLMs+%7C+AI+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Pythonic+Developer+%7C+Django+%7C+REST+APIs;React+%7C+Next.js+%7C+Full+Stack+Engineering;LangChain+%7C+LLMs+%7C+AI+Applications;Cloud+%7C+GCP+%7C+Docker+%7C+DevOps;Always+Learning+%7C+Always+Building+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🔭 Currently working as **AI Engineer Intern @ Airbus India (Jigyasa Hackathon)**  
-- 🧑‍💻 Experienced with **Django, REST Framework, React.js, Next.js, LangChain, Prisma, Supabase, Tailwind CSS**  
-- 🚀 Built full-stack applications with **secure authentication, payment integrations, and AI features**  
-- 📚 Published multiple **IEEE/ArXiv research papers** in AI/ML & Computer Vision  
+- 🧑‍💻 Skilled in **Full-Stack Development, AI/ML, Cloud & DevOps**  
+- 🚀 Experienced in **LLM Apps (LangChain, Vertex AI, Gemini API)** and **Web Apps (Django + React/Next.js)**  
+- 📚 Published **IEEE/ArXiv research papers** in AI, CV, NLP, and Healthcare ML  
 - 📫 Reach me at: **aadivikram892@gmail.com**  
 - 🌐 [Portfolio/Resume](https://drive.google.com/file/d/1rVENT8BlHUzyYL6IzM2-iCNuxmwjRpc-/view?usp=sharing)  
 
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aadivikram368/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
@@ -29,13 +29,43 @@
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** Python, C++, JavaScript, HTML, CSS  
-**Frameworks:** Django, Django REST Framework, React.js, Next.js, Streamlit, FastAPI  
-**AI/LLM Tools:** LangChain, Gemini API, Vertex AI, HuggingFace  
-**Databases:** MySQL, Supabase, Prisma ORM  
-**DevOps & Cloud:** Docker, GCP, Render, Git, CLASP  
-**Other:** Tailwind CSS, Shadcn UI, JWT, Flask  
+### 🛠️ Tech Stack & Skills  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45px" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" alt="CSS"/>
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45px" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45px" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45px" alt="Flask"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45px" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45px" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45px" alt="TailwindCSS"/>
+
+  <!-- AI/ML -->
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45px" alt="LangChain"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45px" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45px" alt="PyTorch"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45px" alt="HuggingFace"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45px" alt="Prisma"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="45px" alt="Supabase"/>
+
+  <!-- DevOps & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45px" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45px" alt="GCP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45px" alt="Bash"/>
+</p>
 
 ---
 
@@ -56,7 +86,6 @@
 ---
 
 ### 🐍 GitHub Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadivik/aadivik/output/github-contribution-grid-snake-dark.svg">
@@ -64,8 +93,6 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aadivik/aadivik/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-
 
 ---
 
