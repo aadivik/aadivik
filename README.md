@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadi Krishna Vikram</h1>
 <h3 align="center">💻 Software Engineer | AI/ML Researcher | Full-Stack Developer</h3>
 
-<div align="center">
-  [![Portfolio](https://img.shields.io/badge/%20Portfolio-20B2AA?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.linkedin.com/in/aadivikram368/)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadivikram368/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadivikram892@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/aadivikram368/)
-</div>
+
 
 <!-- Left logo -->
 <img align="left" width="150" height="40" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
@@ -30,6 +25,20 @@
 - 📚 Published **IEEE/ArXiv research papers** in AI, CV, NLP, and Healthcare ML  
 - 📫 Reach me at: **aadivikram892@gmail.com**  
 - 🌐 [Portfolio/Resume]([https://drive.google.com/file/d/1rVENT8BlHUzyYL6IzM2-iCNuxmwjRpc-/view?usp=sharing](https://drive.google.com/file/d/1eRROUeCpOeeSj8DPGKm7gAnRVlnHC31R/view?usp=sharing))
+
+
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/aadivikram368/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/aadivik" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
