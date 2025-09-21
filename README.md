@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aadi Krishna Vikram</h1>
 <h3 align="center">💻 Software Engineer | AI/ML Researcher | Full-Stack Developer</h3>
 
-<div style="display: flex; align-items: flex-start;">
+<!-- Two-column layout: Tech Stack on left, GIF on right -->
+<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
 
-  <!-- Left column: Tech stack -->
-  <div style="flex: 1;">
+  <!-- Left column: Tech Stack -->
+  <div style="flex: 1; min-width: 300px;">
     <p align="center">
       [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,django,fastapi,flask,react,nextjs,tailwind,git,github,opencv,mysql,supabase,linux,gcp,notion,pytorch,tensorflow,huggingface&perline=7)](https://skillicons.dev)
     </p>
   </div>
 
   <!-- Right column: Developer GIF -->
-  <div style="flex: 1;">
+  <div style="flex: 1; min-width: 300px;">
     <img src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330" />
   </div>
 
