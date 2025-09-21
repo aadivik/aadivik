@@ -22,7 +22,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working as **AI Engineer Intern @ Airbus India (Jigyasa Hackathon)**  
+- 🔭 Currently working as **AI Engineer Intern @ Airbus India **  
 - 🧑‍💻 Skilled in **Full-Stack Development, AI/ML, Cloud & DevOps**  
 - 🚀 Experienced in **LLM Apps (LangChain, Vertex AI, Gemini API)** and **Web Apps (Django + React/Next.js)**  
 - 📚 Published **IEEE/ArXiv research papers** in AI, CV, NLP, and Healthcare ML  
