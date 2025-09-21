@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Aadi Krishna Vikram</h1>
 <h3 align="center">💻 Software Engineer | AI/ML Researcher | Full-Stack Developer</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,django,fastapi,flask,react,nextjs,tailwind,git,github,opencv,mysql,supabase,linux,gcp,notion,pytorch,tensorflow,huggingface&perline=7" alt="My Skills"/>
-    </td>
+<div align="center">
+  [![Portfolio](https://img.shields.io/badge/%20Portfolio-20B2AA?style=for-the-badge&logo=bilibili&logoColor=white)](https://bhanmrinal-github-io.vercel.app/) 
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinal-bhan/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanmrinal@gmail.com) 
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrinalbhan/)
+</div>
 
-    <td align="center" valign="top">
-      <img src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330"/>
-    </td>
-  </tr>
-</table>
+<!-- Left logo -->
+<img align="left" width="150" height="40" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
+
+<!-- Developer GIF on the right -->
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330" />
+
+<br><br><br><br>
+
+<!-- Tech stack icons centered -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,html,css,django,fastapi,flask,react,nextjs,tailwind,git,github,opencv,mysql,supabase,linux,gcp,notion,pytorch,tensorflow,huggingface&perline=7" alt="My Skills"/>
+</p>
 
 ---
 
@@ -22,18 +30,6 @@
 - 📚 Published **IEEE/ArXiv research papers** in AI, CV, NLP, and Healthcare ML  
 - 📫 Reach me at: **aadivikram892@gmail.com**  
 - 🌐 [Portfolio/Resume]([https://drive.google.com/file/d/1rVENT8BlHUzyYL6IzM2-iCNuxmwjRpc-/view?usp=sharing](https://drive.google.com/file/d/1eRROUeCpOeeSj8DPGKm7gAnRVlnHC31R/view?usp=sharing))
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aadivikram368/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/aadivik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
